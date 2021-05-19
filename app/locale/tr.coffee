@@ -1704,9 +1704,9 @@ module.exports = nativeDescription: "Türkçe", englishDescription: "Turkish", t
 #    view_winners: "View Winners"
 
 #  project_gallery:
-#    no_projects_published: "Be the first to publish a project in this course!"
-#    view_project: "View Project"
-#    edit_project: "Edit Project"
+    no_projects_published: "Bu kursta ilk proje paylaşımını sen yap!" 
+    view_project: "Projeyi Gör"
+    edit_project: "Projeyi Düzenle"
 
 #  teacher:
 #    assigning_course: "Assigning course"
